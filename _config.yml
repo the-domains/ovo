@@ -1,7 +1,7 @@
 name: OVO
 favicon: null
-layout_spectrum: 0.6377491953317076
-typography_spectrum: 0.5581414620392025
+layout_spectrum: 0.14132
+typography_spectrum: 0.6029
 title: 'Design & Innovation'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.996701882686466
-  lightness: 0.6508378405123949
-  saturation: 0.9516814763192087
-  rhythmicContrast: 0.1463233339600265
+    - '#010101'
+    - '#ffffff'
+    - '#378aaa'
+    - '#0d5c7d'
+    - '#a9dcef'
+  brandStrength: 0.125
+  lightness: 0.5625
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
